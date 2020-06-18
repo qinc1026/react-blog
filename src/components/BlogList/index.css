@@ -1,0 +1,17 @@
+.blog-list-pagination {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom:15px;
+}
+
+.blog-list-card {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.blog-content{
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+}
