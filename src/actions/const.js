@@ -3,3 +3,4 @@ export const REPO_NAME = 'articles';
 export const REPO_OWNER = 'axuebin';
 export const PAGE_ARTICLES = 'PAGE_ARTICLES';
 export const ISSUE_CREATOR = REPO_OWNER;
+export const FETCH_ISSUE = 'FETCH_ISSUE';

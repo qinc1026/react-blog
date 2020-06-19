@@ -37,7 +37,7 @@ class BlogList extends React.Component {
         return (
             <Row style={{width:'100%',height:'100%'}}>
                 <Banner />
-                <ArticleCards />>
+                <ArticleCards />
                 <Pagination 
                     hideOnSinglePage={true}
                     total={this.props.articles.length}
